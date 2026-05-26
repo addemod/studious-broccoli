@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@myorg/my-plugin": {
+      "signature": "6b9996239a9cd79f7c830961cfae3748",
+      "file": true
+    }
+  }
+}
